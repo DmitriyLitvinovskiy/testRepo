@@ -30,6 +30,8 @@ graph::~graph()
 {
     delete temp;
 
+    //delete all items
+
     if(!shapes.empty())
         for(auto i : shapes)
             delete i;
