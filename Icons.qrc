@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/buttonIcons">
+        <file>ellipse.png</file>
+        <file>line.png</file>
+        <file>rectangle.png</file>
+        <file>remove.png</file>
+    </qresource>
+    <qresource prefix="/icons/App">
+        <file>app.png</file>
+    </qresource>
+</RCC>
